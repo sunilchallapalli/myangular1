@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class ToggleViewComponent implements OnInit {
 
   showContent: boolean = true;
-  showContent1: boolean = true;
+
   constructor() { }
 
   ngOnInit() {
